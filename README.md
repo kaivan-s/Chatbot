@@ -11,3 +11,8 @@ seq2seq model :-
 Reference :-
           https://www.udemy.com/chatbot/learn/v4/content                                                                          
           https://tutorials.botsfloor.com/how-to-build-your-first-chatbot-c84495d4622d
+
+
+Dataset used is the famous movie corpus :-
+          http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+                         
