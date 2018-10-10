@@ -56,6 +56,8 @@ def clean_text(text):
     text = re.sub(r"\'ve", " have", text)
     text = re.sub(r"\'re", " are", text)
     text = re.sub(r"\'d", " would", text)
+    text = re.sub(r"don't", "do not", text)
+    text = re.sub(r"ain't", "am not", text)
     text = re.sub(r"n't", " not", text)
     text = re.sub(r"won't", "will not", text)
     text = re.sub(r"can't", "cannot", text)
