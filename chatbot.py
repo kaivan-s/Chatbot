@@ -510,7 +510,7 @@ while(True):
         answer += token
         if token == '.':
             break
-    print('ChatBot: ' + answer)    
+    print('ChatBot: ' +  answer)    
     
     
     
