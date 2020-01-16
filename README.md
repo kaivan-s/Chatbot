@@ -13,9 +13,18 @@ Reference :-
           https://tutorials.botsfloor.com/how-to-build-your-first-chatbot-c84495d4622d
 
 
-Dataset used is the famous movie corpus :-
-          http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+Dataset used is the famous movie corpus
                          
+## Usage
+
+First install all requirements by 
+> python -m pip install -4 requirements.py
+
+Download Dataset from http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html in the same directory as this project.
+
+Run the project using
+> python chatbot.py
+
 ## What after this?
 
 You can use this link for extending this chatbot project with integration inside Facebook Messenger using WebHooks in Python- https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html
